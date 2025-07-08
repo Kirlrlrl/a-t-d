@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-kartina/"}
+{"dg-publish":true,"permalink":"/i-kartina/","tags":["gardenEntry"]}
 ---
 
 **I картина**
